@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/myPage"
+        android:icon="@drawable/nav_mypage"
+        android:title="@string/myPage" />
+
+    <item
+        android:id="@+id/popular"
+        android:icon="@drawable/nav_popular"
+        android:title="@string/popular" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/nav_search"
+        android:title="@string/search" />
+</menu>
